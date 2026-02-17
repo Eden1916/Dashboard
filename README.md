@@ -160,10 +160,10 @@ npm run build	Build production-ready project
 npm run preview	Preview production build locally
 📐 Screenshots
 ### Overview Page
-![Overview Page](assets/overview.png)
+![Overview Page](src/assets/overview.png)
 
 ### Projects Page
-![Projects Page](assets/projects.png)
+![Projects Page](src/assets/projects.png)
 
 ### Profile Settings Page
-![Profile Page](assets/profilewithNotification.png)
+![Profile Page](src/assets/profilewithNotification.png)
